@@ -33,3 +33,4 @@ int main(){
 	cout<<max1<<" "<<max2;
 	return 0;
 }
+
